@@ -1,3 +1,4 @@
 284927493,Doe,Jane,Geography,3.2
 482027490,Miller,John,Business,2.8
 093819349,Nguyen,Gia,Art,3.1
+351683518,Pollard,Paula,Chemistry,3.9
